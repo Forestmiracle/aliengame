@@ -1,1 +1,1 @@
-alien gam
+alien game
